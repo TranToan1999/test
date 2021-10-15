@@ -105,8 +105,8 @@
     ]
   },
   "engines": {
-    "yarn": ">=1.22.10",
-    "node": ">=14.x"
+    "yarn": "1.x",
+    "node": "14.x"
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
